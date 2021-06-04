@@ -1,0 +1,2 @@
+rootProject.name = "RePlugin"
+include ':app'
